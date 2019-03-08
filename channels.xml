@@ -4,7 +4,7 @@
 	</channels_info>
 	<channel>
 		<name>Mediaset</name>
-		<url>https://feed.entertainment.tv.theplatform.eu/f/PR1GhC/mediaset-prod-all-stations?bycallsign=&range=1-1000&fields=guid,title,callSign,thumbnails,mediasetstation$pageUrl</url>
+		<url>https://feed.entertainment.tv.theplatform.eu/f/PR1GhC/mediaset-prod-all-stations?bycallsign=&amp;range=1-1000&amp;fields=guid,title,callSign,thumbnails,mediasetstation$pageUrl</url>
 		<items>
 			<item>
 				<title>20</title>
