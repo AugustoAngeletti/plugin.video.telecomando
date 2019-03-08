@@ -4,7 +4,7 @@
 	</channels_info>
 	<channel>
 		<name>Mediaset</name>
-		<url>https://feed.entertainment.tv.theplatform.eu/f/PR1GhC/mediaset-prod-all-stations?bycallsign=&amp;range=1-1000&amp;fields=guid,title,callSign,thumbnails,mediasetstation$pageUrl</url>
+		<link>https://feed.entertainment.tv.theplatform.eu/f/PR1GhC/mediaset-prod-all-stations?bycallsign=&amp;range=1-1000&amp;fields=guid,title,callSign,thumbnails,mediasetstation$pageUrl</link>
 		<items>
 			<item>
 				<title>20</title>
@@ -82,6 +82,102 @@
 				<title>Virgin Radio</title>
 				<date>08.03.2019</date>
 				<lcn>157</lcn>
+				<epg></epg>
+			</item>
+		</items>
+	</channel>
+	<channel>
+		<name>Rai</name>
+		<link>http://www.rai.it/dl/RaiPlay/2016/PublishingBlock-9a2ff311-fcf0-4539-8f8f-c4fee2a71d58.html?json</link>
+		<items>
+			<item>
+				<title>Rai 1</title>
+				<date>08.03.2019</date>
+				<lcn>1</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rai 2</title>
+				<date>08.03.2019</date>
+				<lcn>2</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rai 3</title>
+				<date>08.03.2019</date>
+				<lcn>3</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rai 4</title>
+				<date>08.03.2019</date>
+				<lcn>21</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rai 5</title>
+				<date>08.03.2019</date>
+				<lcn>23</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rai News 24</title>
+				<date>08.03.2019</date>
+				<lcn>48</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rai Sport piu HD</title>
+				<date>08.03.2019</date>
+				<lcn>57</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rai Sport</title>
+				<date>08.03.2019</date>
+				<lcn>58</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rai Movie</title>
+				<date>08.03.2019</date>
+				<lcn>24</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rete 4</title>
+				<date>08.03.2019</date>
+				<lcn>4</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rai Premium</title>
+				<date>08.03.2019</date>
+				<lcn>25</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Ray Yoyo</title>
+				<date>08.03.2019</date>
+				<lcn>43</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rai Gulp</title>
+				<date>08.03.2019</date>
+				<lcn>42</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rai Storia</title>
+				<date>08.03.2019</date>
+				<lcn>54</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rai Scuola</title>
+				<date>08.03.2019</date>
+				<lcn>146</lcn>
 				<epg></epg>
 			</item>
 		</items>
