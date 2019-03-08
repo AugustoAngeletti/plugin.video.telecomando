@@ -230,4 +230,16 @@
 			</item>
 		</items>
 	</channel>
+	<channel>
+		<name>Dmax</name>
+		<url>https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8</url>
+		<items>
+			<item>
+				<title>DMAX</title>
+				<date>08.03.2019</date>
+				<lcn>52</lcn>
+				<epg></epg>
+			</item>
+		</items>
+	</channel>
 </channels>
