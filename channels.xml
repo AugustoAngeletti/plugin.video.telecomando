@@ -4,7 +4,7 @@
 	</channels_info>
 	<channel>
 		<name>Mediaset</name>
-		<url>https://feed.entertainment.tv.theplatform.eu/f/PR1GhC/mediaset-prod-all-stations?bycallsign=&amp;range=1-1000&amp;fields=guid,title,callSign,thumbnails,mediasetstation$pageUrl</url>
+		<link>https://feed.entertainment.tv.theplatform.eu/f/PR1GhC/mediaset-prod-all-stations?bycallsign=&amp;range=1-1000&amp;fields=guid,title,callSign,thumbnails,mediasetstation$pageUrl</link>
 		<items>
 			<item>
 				<title>20</title>
@@ -88,7 +88,7 @@
 	</channel>
 	<channel>
 		<name>Rai</name>
-		<url>http://www.rai.it/dl/RaiPlay/2016/PublishingBlock-9a2ff311-fcf0-4539-8f8f-c4fee2a71d58.html?json</url>
+		<link>http://www.rai.it/dl/RaiPlay/2016/PublishingBlock-9a2ff311-fcf0-4539-8f8f-c4fee2a71d58.html?json</link>
 		<items>
 			<item>
 				<title>Rai 1</title>
@@ -178,6 +178,18 @@
 				<title>Rai Scuola</title>
 				<date>08.03.2019</date>
 				<lcn>146</lcn>
+				<epg></epg>
+			</item>
+		</items>
+	</channel>
+	<channel>
+		<name>Canale 8</name>
+		<link>https://video.sky.it/be/getLivestream?id=2&amp;jsonp=jsonP.queue.json</link>
+		<items>
+			<item>
+				<title>Canale 8</title>
+				<date>08.03.2019</date>
+				<lcn>8</lcn>
 				<epg></epg>
 			</item>
 		</items>
