@@ -1,0 +1,89 @@
+<channels>
+	<channels_info>
+		<title>Canali Italiani</title>
+	</channels_info>
+	<channel>
+		<name>Mediaset</name>
+		<url>https://feed.entertainment.tv.theplatform.eu/f/PR1GhC/mediaset-prod-all-stations?bycallsign=&range=1-1000&fields=guid,title,callSign,thumbnails,mediasetstation$pageUrl</url>
+		<items>
+			<item>
+				<title>20</title>
+				<date>08.03.2019</date>
+				<lcn>20</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Boing</title>
+				<date>08.03.2019</date>
+				<lcn>40</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Canale 5</title>
+				<date>08.03.2019</date>
+				<lcn>5</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Focus</title>
+				<date>08.03.2019</date>
+				<lcn>35</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Iris</title>
+				<date>08.03.2019</date>
+				<lcn>22</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Italia 1</title>
+				<date>08.03.2019</date>
+				<lcn>6</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Italia 2</title>
+				<date>08.03.2019</date>
+				<lcn>120</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>La 5</title>
+				<date>08.03.2019</date>
+				<lcn>30</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Mediaset Extra</title>
+				<date>08.03.2019</date>
+				<lcn>34</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Rete 4</title>
+				<date>08.03.2019</date>
+				<lcn>4</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>TGCom</title>
+				<date>08.03.2019</date>
+				<lcn>51</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Top Crime</title>
+				<date>08.03.2019</date>
+				<lcn>39</lcn>
+				<epg></epg>
+			</item>
+			<item>
+				<title>Virgin Radio</title>
+				<date>08.03.2019</date>
+				<lcn>157</lcn>
+				<epg></epg>
+			</item>
+		</items>
+	</channel>
+</channels>
