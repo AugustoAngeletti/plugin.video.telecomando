@@ -191,6 +191,7 @@
 				<date>08.03.2019</date>
 				<lcn>26</lcn>
 				<epg></epg>
+				<icon>https://nst.sky.it/etc/designs/skycielo/images/logo.png</icon>
 			</item>
 		</items>
 	</channel>
@@ -203,6 +204,7 @@
 				<date>08.03.2019</date>
 				<lcn>50</lcn>
 				<epg></epg>
+				<icon></icon>
 			</item>
 		</items>
 	</channel>
@@ -215,6 +217,7 @@
 				<date>08.03.2019</date>
 				<lcn>8</lcn>
 				<epg></epg>
+				<icon></icon>
 			</item>
 		</items>
 	</channel>
@@ -227,6 +230,7 @@
 				<date>08.03.2019</date>
 				<lcn>9</lcn>
 				<epg></epg>
+				<icon></icon>
 			</item>
 		</items>
 	</channel>
@@ -239,6 +243,7 @@
 				<date>08.03.2019</date>
 				<lcn>52</lcn>
 				<epg></epg>
+				<icon></icon>
 			</item>
 		</items>
 	</channel>
