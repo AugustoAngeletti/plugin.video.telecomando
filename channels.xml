@@ -218,4 +218,16 @@
 			</item>
 		</items>
 	</channel>
+	<channel>
+		<name>Canale9</name>
+		<url>https://2201.janjua.pw:8088/live/novereload/playlist.m3u8?id=86982&amp;pk=18f7466b8da4288b13c4cf976c8adb6c27c72237bcc44bfaee2072006c24c4ba</url>
+		<items>
+			<item>
+				<title>Nove</title>
+				<date>08.03.2019</date>
+				<lcn>9</lcn>
+				<epg></epg>
+			</item>
+		</items>
+	</channel>
 </channels>
