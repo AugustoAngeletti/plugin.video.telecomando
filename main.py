@@ -33,6 +33,9 @@ utils       = utils()
 #cache = StorageServer.StorageServer("plugin.video.telecomando", 1) # (Your plugin name, Cache time in hours)
 #tv_stations = cache.cacheFunction(raiplay.getChannels)
 
+PLUGIN_NAME = "telecomando"
+__settings__ = xbmcaddon.Addon(id="plugin.video."+PLUGIN_NAME)
+
 def get_url(**kwargs):
     """
     Create a URL for calling the plugin recursively from the given set of keyword arguments.
@@ -131,13 +134,18 @@ def get_xml_file_path():
     path = xbmc.translatePath(
         addon.getAddonInfo('profile')).decode("utf-8")
     name = addon.getSetting('xml_filename')
-
+    print(path)
+    print(name)
     return (path, name)
 
 
 def copy_default_xml_file(target_file_name):
     try:
+        
         path = addon.getAddonInfo('path').decode('utf-8')
+        path = xbmc.translatePath( __settings__.getAddonInfo('Path') )
+        print(path)
+        print(os.path.join(path, "channels.xml"))
         fin = open(os.path.join(path, "channels.xml"), "r")
         fout = file(target_file_name, "w")
         fout.write(fin.read(-1))  # .encode('utf-8'))

@@ -17,6 +17,9 @@ from resources.lib.channel import Channel
 from resources.lib.utils import utils
 utils       = utils()
 
+ADDON = xbmcaddon.Addon()
+PROFILE = xbmc.translatePath( ADDON.getAddonInfo('profile') ).decode("utf-8")
+
 class Mediaset():
 
     def getMainMenu(self):
