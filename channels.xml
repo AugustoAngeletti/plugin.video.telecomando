@@ -183,8 +183,32 @@
 		</items>
 	</channel>
 	<channel>
-		<name>Canale8</name>
+		<name>Cielo</name>
 		<url>https://video.sky.it/be/getLivestream?id=2</url>
+		<items>
+			<item>
+				<title>Cielo</title>
+				<date>08.03.2019</date>
+				<lcn>26</lcn>
+				<epg></epg>
+			</item>
+		</items>
+	</channel>
+	<channel>
+		<name>Skytg24</name>
+		<url>https://video.sky.it/be/getLivestream?id=1</url>
+		<items>
+			<item>
+				<title>Sky TG24</title>
+				<date>08.03.2019</date>
+				<lcn>50</lcn>
+				<epg></epg>
+			</item>
+		</items>
+	</channel>
+	<channel>
+		<name>Canale8</name>
+		<url>https://video.sky.it/be/getLivestream?id=7</url>
 		<items>
 			<item>
 				<title>Canale 8</title>
