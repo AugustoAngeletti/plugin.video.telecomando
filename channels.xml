@@ -183,7 +183,7 @@
 		</items>
 	</channel>
 	<channel>
-		<name>Canale 8</name>
+		<name>Canale8</name>
 		<url>https://video.sky.it/be/getLivestream?id=2&amp;jsonp=jsonP.queue.json</url>
 		<items>
 			<item>
