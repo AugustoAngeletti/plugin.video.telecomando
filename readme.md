@@ -1,5 +1,4 @@
 
-Questo plugin permette di riprodurre i canali italiani
-
+Plugin Kodi per canali italiani
 
 
