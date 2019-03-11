@@ -6,10 +6,9 @@ from resources.lib.utils import utils
 utils       = utils()
 
 class Canale8:
-    # Raiplay android app
-    UserAgent = "Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9105P Build/JDQ39)"
-    MediapolisUserAgent = "Android 4.2.2 (smart) / RaiPlay 2.1.3 / WiFi"
     
+        
+    UserAgent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3'
     noThumbUrl = "http://www.rai.it/dl/components/img/imgPlaceholder.png"
 
     baseUrl = "https://www.raiplay.it/"
